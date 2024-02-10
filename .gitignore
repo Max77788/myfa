@@ -1,0 +1,3 @@
+backend/.env
+frontend\src\.env
+frontend\src\config.cjs
